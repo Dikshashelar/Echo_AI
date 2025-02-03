@@ -14,3 +14,7 @@ Authentication With Clerk
 Dashboard Page
 
 ![Image](https://github.com/user-attachments/assets/71e92cef-64a9-413b-94dc-f10abd163ae8)
+
+Backend- Using MERN Stack application with imagekit-io for images and for API used Google Gemini API.
+
+
