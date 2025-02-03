@@ -9,3 +9,4 @@ A stunning introduction with a react-typing-effect to dynamically display key pr
 
 Authentication With Clerk
 
+![Image](https://github.com/user-attachments/assets/eaf3e0eb-4851-4cb8-a573-0b9e32649942)
